@@ -2,7 +2,7 @@ import React from "react";
 
 const Home = () => {
   return (
-    <div>
+    <div className="flex justify-center">
       <p>Home component</p>
     </div>
   );
